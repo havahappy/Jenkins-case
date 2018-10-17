@@ -8,3 +8,6 @@
 
 # JDK
 ## [centos7上安装jdk](https://github.com/chengpeng2015/Jenkins-case/wiki/centos7%E4%B8%8A%E5%AE%89%E8%A3%85jdk)
+
+# Jenkins
+## [centos7上安装jenkins](https://github.com/chengpeng2015/Jenkins-case/wiki/centos7%E4%B8%8A%E5%AE%89%E8%A3%85Jenkins)
